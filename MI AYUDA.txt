@@ -1,0 +1,12 @@
+PARA MODIFICAR Y AGREGAR COSAS:
+
+1 MODIFICAR EN VSC
+
+2 IR AL CMD, POSICINARSE EN LA UBICACION DE LA CARPETA
+	G: Miunidad/menu>
+
+3 
+	G: Miunidad/menu>git commit -m "agregue un cambio etc etc"
+	G: Miunidad/menu>git add index.hml
+	G: Miunidad/menu>git commit -m "agregue un cambio etc etc"
+	G: Miunidad/menu>git push -u origin main
